@@ -11,9 +11,9 @@ Step 1
 ------
 Create a project file, and add sierpinski.cpp to the project. Also, look at correct-triangle.html to see an example of correct output. Skim/read the source code for sierpinski.cpp, and try to answer the following questions:
 
-* 1.a) What is the purpose of this program?
-* 1.b) Does the program produce output? If so, what kind of output is it, and where does it end up?
-* 1.c) Does the program accept input? If so, what kind of input, and how is it provided?
+* 1.a) What is the purpose of this program? - Print out sierpinski triangle
+* 1.b) Does the program produce output? If so, what kind of output is it, and where does it end up? - It does. An html file is produced and stored in the project directory. 
+* 1.c) Does the program accept input? If so, what kind of input, and how is it provided? - It takes a triangle size when you call the `doTriangle` method.
 
 Step 2
 -------
